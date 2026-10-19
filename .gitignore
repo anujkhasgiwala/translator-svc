@@ -1,0 +1,16 @@
+.idea/
+.vscode/
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+venv/
+.mypy_cache/
+.pytest_cache/
+.coverage
+coverage.xml
+models/
+.env
+*.egg-info/
+build/
+dist/
